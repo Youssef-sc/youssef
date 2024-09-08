@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "68352851269",
+    "project_id": "appco-e97a6",
+    "storage_bucket": "appco-e97a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68352851269:android:0157df3e5f842431e2522c",
+        "android_client_info": {
+          "package_name": "com.example.face_emotion_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAkWszSrTs2sTC5M_iZAO5Nnlma8gghOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68352851269:android:180471ec62fa2b12e2522c",
+        "android_client_info": {
+          "package_name": "schemas.android.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAkWszSrTs2sTC5M_iZAO5Nnlma8gghOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
